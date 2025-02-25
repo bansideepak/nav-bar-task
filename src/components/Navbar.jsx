@@ -16,7 +16,6 @@ const Navbar = () => {
     <nav className="bg-gray-800 shadow-lg">
       <div className="container mx-auto p-4 flex justify-between items-center">
         <div className="text-white text-lg font-bold">NEUROM</div>
-
         {/* Desktop view*/}
 
         <div className="hidden md:flex gap-4">
